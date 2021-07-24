@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=Q1 Old Footprint=TO-220AB New Footprint=TO-252
+Added Component: Designator=TS_1(TP_ROUND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "触控弹簧"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Added Component: Designator=TS_BOOST_OUT_1(TP_round)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "触控弹簧"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Added Component: Designator=TS_GND1(TP_round)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "触控弹簧"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Added Component: Designator=TS_POWER_1(TP_round)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "触控弹簧"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Added Component: Designator=TS_USBPOWERIN_1(TP_round)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "触控弹簧"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=TS_1-1
+Added Pin To Net: NetName=VH Pin=TS_BOOST_OUT_1-1
+Added Pin To Net: NetName=GND Pin=TS_GND1-1
+Added Pin To Net: NetName=3.3V Pin=TS_POWER_1-1
+Added Pin To Net: NetName=VCC Pin=TS_USBPOWERIN_1-1
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component TS_1 12x16
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component TS_BOOST_OUT_1 12x16
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component TS_GND1 12x16
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component TS_POWER_1 12x16
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component TS_USBPOWERIN_1 12x16

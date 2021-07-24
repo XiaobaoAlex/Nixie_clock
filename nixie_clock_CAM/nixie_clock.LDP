@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: F:\pcb学习资料\项目\辉光管\Nixie_clock\nixie_clock.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nixie_clock-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nixie_clock-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=nixie_clock-rectholes.txt|DrillLayers=gtl,gbl

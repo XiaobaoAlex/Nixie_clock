@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Q1 Old Footprint=TO-252 New Footprint=TO252
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-D
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_S Pin=Q1-S

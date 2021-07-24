@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: F:\pcb学习资料\项目\辉光管\Nixie_clock\nixie_clock.PcbDoc
+RuleKind=Width|RuleName=power|Scope=Board|Minimum=31.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

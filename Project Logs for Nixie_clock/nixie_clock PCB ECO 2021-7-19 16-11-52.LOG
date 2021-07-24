@@ -1,0 +1,5 @@
+Added Component: Designator=P1(LED 0805R)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component P1 电源指示

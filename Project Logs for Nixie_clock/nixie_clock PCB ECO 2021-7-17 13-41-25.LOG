@@ -1,0 +1,7 @@
+Added Component: Designator=TS_GND?(ICO1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "触控弹簧"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component TS_GND? 12x16
+Added Room: Name=NiXie_tube_clock

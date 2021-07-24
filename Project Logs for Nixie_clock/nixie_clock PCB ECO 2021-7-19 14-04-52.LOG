@@ -1,0 +1,105 @@
+Change Component Designator: OldDesignator= NewDesignator=TS_GND?
+Added Component: Designator=QS1(QS30-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=QS2(QS30-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=QS3(QS30-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=QS4(QS30-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=QS5(QS30-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=QS6(QS30-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=UP1(Neon)
+Add component. Clean all parameters for all variants
+Added Component: Designator=UP2(Neon)
+Add component. Clean all parameters for all variants
+Added Component: Designator=UP3(Neon)
+Add component. Clean all parameters for all variants
+Added Component: Designator=UP4(Neon)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQS1_2 Pin=QS1-2
+Added Pin To Net: NetName=NH1_0 Pin=QS1-3
+Added Pin To Net: NetName=NH1_9 Pin=QS1-4
+Added Pin To Net: NetName=NH1_8 Pin=QS1-5
+Added Pin To Net: NetName=NH1_7 Pin=QS1-6
+Added Pin To Net: NetName=NH1_6 Pin=QS1-7
+Added Pin To Net: NetName=NH1_5 Pin=QS1-9
+Added Pin To Net: NetName=NH1_4 Pin=QS1-10
+Added Pin To Net: NetName=NH1_3 Pin=QS1-11
+Added Pin To Net: NetName=NH1_2 Pin=QS1-12
+Added Pin To Net: NetName=NH1_1 Pin=QS1-13
+Added Pin To Net: NetName=NetQS2_2 Pin=QS2-2
+Added Pin To Net: NetName=NH2_0 Pin=QS2-3
+Added Pin To Net: NetName=NH2_9 Pin=QS2-4
+Added Pin To Net: NetName=NH2_8 Pin=QS2-5
+Added Pin To Net: NetName=NH2_7 Pin=QS2-6
+Added Pin To Net: NetName=NH2_6 Pin=QS2-7
+Added Pin To Net: NetName=NH2_5 Pin=QS2-9
+Added Pin To Net: NetName=NH2_4 Pin=QS2-10
+Added Pin To Net: NetName=NH2_3 Pin=QS2-11
+Added Pin To Net: NetName=NH2_2 Pin=QS2-12
+Added Pin To Net: NetName=NH2_1 Pin=QS2-13
+Added Pin To Net: NetName=NetQS3_2 Pin=QS3-2
+Added Pin To Net: NetName=NH3_0 Pin=QS3-3
+Added Pin To Net: NetName=NH3_9 Pin=QS3-4
+Added Pin To Net: NetName=NH3_8 Pin=QS3-5
+Added Pin To Net: NetName=NH3_7 Pin=QS3-6
+Added Pin To Net: NetName=NH3_6 Pin=QS3-7
+Added Pin To Net: NetName=NH3_5 Pin=QS3-9
+Added Pin To Net: NetName=NH3_4 Pin=QS3-10
+Added Pin To Net: NetName=NH3_3 Pin=QS3-11
+Added Pin To Net: NetName=NH3_2 Pin=QS3-12
+Added Pin To Net: NetName=NH3_1 Pin=QS3-13
+Added Pin To Net: NetName=NetQS4_2 Pin=QS4-2
+Added Pin To Net: NetName=NH4_0 Pin=QS4-3
+Added Pin To Net: NetName=NH4_9 Pin=QS4-4
+Added Pin To Net: NetName=NH4_8 Pin=QS4-5
+Added Pin To Net: NetName=NH4_7 Pin=QS4-6
+Added Pin To Net: NetName=NH4_6 Pin=QS4-7
+Added Pin To Net: NetName=NH4_5 Pin=QS4-9
+Added Pin To Net: NetName=NH4_4 Pin=QS4-10
+Added Pin To Net: NetName=NH4_3 Pin=QS4-11
+Added Pin To Net: NetName=NH4_2 Pin=QS4-12
+Added Pin To Net: NetName=NH4_1 Pin=QS4-13
+Added Pin To Net: NetName=NetQS5_2 Pin=QS5-2
+Added Pin To Net: NetName=NH5_0 Pin=QS5-3
+Added Pin To Net: NetName=NH5_9 Pin=QS5-4
+Added Pin To Net: NetName=NH5_8 Pin=QS5-5
+Added Pin To Net: NetName=NH5_7 Pin=QS5-6
+Added Pin To Net: NetName=NH5_6 Pin=QS5-7
+Added Pin To Net: NetName=NH5_5 Pin=QS5-9
+Added Pin To Net: NetName=NH5_4 Pin=QS5-10
+Added Pin To Net: NetName=NH5_3 Pin=QS5-11
+Added Pin To Net: NetName=NH5_2 Pin=QS5-12
+Added Pin To Net: NetName=NH5_1 Pin=QS5-13
+Added Pin To Net: NetName=NetQS6_2 Pin=QS6-2
+Added Pin To Net: NetName=NH6_0 Pin=QS6-3
+Added Pin To Net: NetName=NH6_9 Pin=QS6-4
+Added Pin To Net: NetName=NH6_8 Pin=QS6-5
+Added Pin To Net: NetName=NH6_7 Pin=QS6-6
+Added Pin To Net: NetName=NH6_6 Pin=QS6-7
+Added Pin To Net: NetName=NH6_5 Pin=QS6-9
+Added Pin To Net: NetName=NH6_4 Pin=QS6-10
+Added Pin To Net: NetName=NH6_3 Pin=QS6-11
+Added Pin To Net: NetName=NH6_2 Pin=QS6-12
+Added Pin To Net: NetName=NH6_1 Pin=QS6-13
+Added Pin To Net: NetName=NetR12_2 Pin=UP1-1
+Added Pin To Net: NetName=NetQ2_3 Pin=UP1-2
+Added Pin To Net: NetName=NetR16_2 Pin=UP2-1
+Added Pin To Net: NetName=NetQ3_3 Pin=UP2-2
+Added Pin To Net: NetName=NetR21_2 Pin=UP3-1
+Added Pin To Net: NetName=NetQ5_3 Pin=UP3-2
+Added Pin To Net: NetName=NetR20_2 Pin=UP4-1
+Added Pin To Net: NetName=NetQ6_3 Pin=UP4-2
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component QS1 QS30-1
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component QS2 QS30-1
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component QS3 QS30-1
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component QS4 QS30-1
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component QS5 QS30-1
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component QS6 QS30-1
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component UP1 Neon
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component UP2 Neon
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component UP3 Neon
+Added Member To Class: ClassName=NiXie_tube_clock Member=Component UP4 Neon

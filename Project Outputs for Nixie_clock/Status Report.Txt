@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [Nixie_clock.PrjPcb]
+   Generated File[Fabrication Testpoint Report for nixie_clock.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:35:30 On 2021/7/20

@@ -1,0 +1,138 @@
+Altium Designer Pick and Place Locations
+F:\pcb学习资料\项目\辉光管\Nixie_clock\Project Outputs for Nixie_clock\Pick Place for nixie_clock.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/07/21
+Time:       15:33
+Revision:   0
+Variant:    No variations
+Units used: mil
+
+Designator      Comment            Layer    Footprint                          Center-X(mil) Center-Y(mil) Rotation 
+R101            0R                 TopLayer R_0805_L                           824.003       -2248.997     180      
+P1              电源指示               TopLayer LED_0805R                          4025.000      -2608.000     180      
+UP4             Neon               TopLayer Neon                               5688.976      -1110.236     0        
+UP3             Neon               TopLayer Neon                               5688.976      -661.417      0        
+UP2             Neon               TopLayer Neon                               2893.701      -1110.236     0        
+UP1             Neon               TopLayer Neon                               2893.701      -661.417      0        
+QS6             QS30-1             TopLayer QS30-1                             7696.850      -885.827      0        
+QS5             QS30-1             TopLayer QS30-1                             6476.378      -885.827      0        
+QS4             QS30-1             TopLayer QS30-1                             4901.575      -885.827      0        
+QS3             QS30-1             TopLayer QS30-1                             3681.102      -885.827      0        
+QS2             QS30-1             TopLayer QS30-1                             2106.299      -885.827      0        
+QS1             QS30-1             TopLayer QS30-1                             885.827       -886.827      0        
+Warning         12x16              TopLayer ICO1                               -1000.000     -3953.000     360      
+USB             KH-TYPE-C-6P       TopLayer TYPE-C-SMD_TYPE-C-31-M-16          184.000       -2364.999     270      
+TS_USBPOWERIN_1 12x16              TopLayer TP_round                           550.000       -1765.000     90       
+TS_POWER_1      12x16              TopLayer TP_round                           1214.000      -1611.000     90       
+TS_GND1         12x16              TopLayer TP_round                           353.000       -2176.000     90       
+TS_BOOST_OUT_1  12x16              TopLayer TP_round                           2626.000      -1833.000     90       
+TS_1            12x16              TopLayer TP_ROUND                           359.500       -2522.500     90       
+U4              HV57708PG          TopLayer QFP80P2390X1790X340-80N            5254.000      -2049.000     360      
+TS_BOOST_IN_1   12x16              TopLayer TP_ROUND                           1495.000      -2121.000     90       
+R21             100K               TopLayer R_0805_L                           5890.997      -421.997      270      
+R20             100K               TopLayer R_0805_L                           5829.997      -871.997      270      
+R19             33K                TopLayer R_0805_L                           5497.003      -1372.997     180      
+R18             33K                TopLayer R_0805_L                           5710.003      -876.997      180      
+R17             33K                TopLayer R_0805_L                           1181.000      -2531.402     90       
+R16             100K               TopLayer R_0805_L                           3037.997      -857.997      270      
+R15             33K                TopLayer R_0805_L                           2838.003      -1313.997     180      
+R12             100K               TopLayer R_0805_L                           3088.997      -418.997      270      
+R11             33K                TopLayer R_0805_L                           2924.003      -888.997      180      
+R10             20K                TopLayer R_0805_L                           8278.003      -420.003      90       
+R9              20K                TopLayer R_0805_L                           7093.003      -420.003      90       
+R4              20K                TopLayer R_0805_L                           5469.003      -419.003      90       
+R3              20K                TopLayer R_0805_L                           4291.003      -424.003      90       
+R2              20K                TopLayer R_0805_L                           2649.003      -420.003      90       
+R1              20K                TopLayer R_0805_L                           1517.000      -419.598      90       
+Q6              A42                TopLayer SOT-23                             5495.000      -1262.000     0        
+Q5              A42                TopLayer SOT-23                             5569.000      -871.000      0        
+Q4              A42                TopLayer SOT-23                             1141.000      -2385.000     90       
+Q3              A42                TopLayer SOT-23                             2692.000      -1266.000     0        
+D7              1SMA5945BT3G       TopLayer SMA                                5803.000      -2500.000     360      
+CR1             1220               TopLayer CR1220_A                           7350.000      -2234.043     90       
+Y1              4MHZ               TopLayer 4M2P                               2955.142      -2195.331     270      
+U6              DIP4               TopLayer DIP4C                              6359.000      -2274.000     0        
+U5              MC9S08DZ60         TopLayer 64-LQFP-10_-_duplicate             3667.787      -2395.559     0        
+U3              AMS1117-3.3        TopLayer SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR 790.000       -1610.000     180      
+U2              MAX1771CSA+        TopLayer SOIC-8                             1980.000      -2275.000     360      
+U1              DS3231MZ+          TopLayer SOIC-8                             6825.000      -2093.000     90       
+S1              SK-22D02           TopLayer 钮子开关6脚3档                           201.488       -1881.000     180      
+RE1             SW DIP-2           TopLayer 6MManjian                          2766.291      -2619.465     0        
+R56             100K               TopLayer C0805                              6508.000      -2555.528     90       
+R55             100K               TopLayer C0805                              6408.000      -2555.528     90       
+R54             100K               TopLayer C0805                              6308.000      -2555.528     90       
+R53             100K               TopLayer C0805                              6208.000      -2555.528     90       
+R52             10K                TopLayer C0805                              6508.000      -1965.000     90       
+R51             10K                TopLayer C0805                              6408.333      -1965.000     90       
+R50             10K                TopLayer C0805                              6308.667      -1965.000     90       
+R49             10K                TopLayer C0805                              6209.000      -1965.000     90       
+R47             1K                 TopLayer C0805                              3957.000      -2120.000     270      
+R46             1K                 TopLayer C0805                              4042.000      -2173.000     90       
+R45             1K                 TopLayer C0805                              4079.000      -1890.000     180      
+R44             1K                 TopLayer C0805                              3929.000      -1890.000     360      
+R43             1K                 TopLayer C0805                              3394.472      -1959.000     180      
+R42             1K                 TopLayer C0805                              3395.472      -1886.000     180      
+R41             1K                 TopLayer C0805                              3427.000      -2177.000     180      
+R39             1K                 TopLayer C0805                              4050.000      -2689.000     360      
+R38             1M                 TopLayer C0805                              3256.000      -2401.000     270      
+R37             100R               TopLayer C0805                              2996.000      -2683.000     90       
+R36             51R                TopLayer C0805                              4244.000      -2596.000     270      
+R35             10K                TopLayer C0805                              3247.000      -2513.000     360      
+R34             51R                TopLayer C0805                              4172.000      -2596.000     270      
+R33             240K               TopLayer C0805                              5741.472      -2394.000     180      
+R32             5K1                TopLayer R_0805_M                           405.000       -2261.000     180      
+R31             5K1                TopLayer R_0805_M                           405.000       -2346.000     0        
+R30             1K                 TopLayer C0805                              8522.000      -1496.000     270      
+R29             604R               TopLayer R_0805_L                           909.997       -1774.997     270      
+R28             1K                 TopLayer C0805                              8366.000      -1495.000     270      
+R27             1K                 TopLayer R_0805_L                           439.003       -1660.003     90       
+R26             1K                 TopLayer R_0805_L                           495.997       -2564.997     270      
+R25             5.6K               TopLayer C0805                              8386.000      -2414.000     360      
+R24             5.6K               TopLayer C0805                              8204.000      -2698.528     90       
+R23             1K                 TopLayer C0805                              8021.528      -2379.000     180      
+R22             1K                 TopLayer C0805                              8209.000      -2383.000     270      
+R14             16K                TopLayer C0805                              2600.000      -2351.000     90       
+R13             40mR               TopLayer C0805                              2486.000      -2544.000     90       
+R8              1.8M               TopLayer C0805                              2591.997      -2229.595     90       
+R7              10K                TopLayer C0805                              6881.000      -2325.000     90       
+R6              10K                TopLayer C0805                              6750.000      -1861.473     90       
+R5              10K                TopLayer C0805                              6825.000      -1863.473     90       
+Q2              A42                TopLayer SOT23                              2780.500      -882.000      360      
+Q1              MTD20N03HDL        TopLayer TO252                              2395.449      -2275.063     360      
+L1              220uH              TopLayer CDRH129                            1994.000      -1887.000     360      
+K1              Relay-G6K-Y-TR DC5 TopLayer G6K-2F                             867.205       -2535.000     360      
+J1              BDM                TopLayer PIN6                               3214.543      -2661.583     90       
+F1              Fuse 1             TopLayer FU_1206                            427.000       -2441.000     360      
+E2              300uF/350V         TopLayer CT_5*6_-_C                         2728.000      -1994.000     90       
+E1              220uF/20+V         TopLayer CT_10*8_-_C                        1494.000      -2447.000     90       
+D6              LED2               TopLayer LED_0805G                          910.000       -1955.000     270      
+D5              LED2               TopLayer LED_0805G                          440.000       -1490.000     90       
+D4              LED2               TopLayer LED_0805G                          546.000       -2682.000     360      
+D3              MBR0520            TopLayer SOD-123                            8278.000      -2595.000     180      
+D2              MBR0520            TopLayer SOD-123                            8278.000      -2496.000     360      
+D1              IN5817-22          TopLayer SOD-123                            2423.000      -1886.000     360      
+C21             22pF               TopLayer C0805                              3157.000      -2429.000     360      
+C20             22pF               TopLayer C0805                              3098.000      -1959.000     270      
+C19             10uF               TopLayer CD_B(3528)                         4191.994      -2389.994     270      
+C18             10nF               TopLayer C0805                              4010.000      -2436.000     270      
+C17             100nF              TopLayer C0805                              4083.000      -2435.000     270      
+C16             10uF               TopLayer CD_B(3528)                         3133.994      -2211.994     270      
+C15             10nF               TopLayer C0805                              3311.000      -2282.000     270      
+C14             100nF              TopLayer C0805                              3237.000      -2281.000     270      
+C13             104                TopLayer C_0805_L                           5247.003      -2596.997     180      
+C12             0.1uF              TopLayer C0805                              2997.000      -2560.000     90       
+C11             100nF              TopLayer C0805                              3593.528      -1890.000     180      
+C10             100nF              TopLayer C0805                              3744.000      -1893.000     360      
+C9              10uF               TopLayer CD_B(3528)                         1034.994      -1679.994     270      
+C8              10uF               TopLayer CD_B(3528)                         550.006       -1625.006     90       
+C7              104                TopLayer C_0805_L                           7795.997      -1645.997     270      
+C6              1uF                TopLayer C_0805_L                           7701.997      -1645.997     270      
+C5              104                TopLayer C_0805_L                           6802.003      -2394.003     90       
+C4              104                TopLayer C_0805_L                           6937.003      -1879.997     180      
+C3              100PF              TopLayer C_0805_L                           2684.000      -2231.598     90       
+C2              104                TopLayer C_0805_L                           2193.997      -2311.997     270      
+C1              104/20+V           TopLayer C_0805_L                           1756.997      -2287.997     270      
+1               ESP8266            TopLayer ESP8266                            8210.938      -1944.024     90       
